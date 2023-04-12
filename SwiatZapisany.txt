@@ -1,0 +1,3 @@
+20 20 1 0
+Lis 0 2 7 3 5 4 Wilk 0 2 5 9 15 0 Wilk 0 2 5 9 9 3 Czlowiek 0 2 4 5 1 7 0 0 Owca 0 1 4 4 18 18 Owca 0 1 4 4 2 4 Antylopa 0 1 4 4 7 16 Antylopa 0 1 4 4 11 4 Zolw 0 1 1 2 1 11 Zolw 0 1 1 2 15 2 Trawa 0 1 0 0 2 13 Mlecz 0 1 0 0 12 2 Guarana 0 1 0 0 1 16 WilczeJagody 0 1 0 99 18 15 BarszczSosnowskiego 0 1 0 10 7 6 
+ 
